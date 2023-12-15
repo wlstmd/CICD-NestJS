@@ -1,3 +1,6 @@
+<img width="877" alt="스크린샷 2023-12-15 오후 3 24 58" src="https://github.com/jinseung0327/CICD-NestJS/assets/127307160/e1e39aea-6774-45cf-a72b-5f9bbaac41d2">
+<hr/>
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
