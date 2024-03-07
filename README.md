@@ -1,4 +1,4 @@
-## 아키텍처
+## Architecture
 
 <p align="center">
   <img width="771" alt="스크린샷 2024-03-04 오후 3 29 21" src="https://github.com/wlstmd/CICD-NestJS/assets/127307160/013f1cf8-0bdd-46c3-a348-94f7c71c5d1f">
